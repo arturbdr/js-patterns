@@ -1,2 +1,5 @@
 # js-patterns
-This repository is to implement and test js patterns
+
+This repository will implement patterns for:
+- js development patterns
+- testing libraries
