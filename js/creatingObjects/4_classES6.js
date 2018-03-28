@@ -5,12 +5,14 @@ class Notebook {
         this.type = type;
     }
 
+    // Shorthand method definition
     printDetails() {
         console.log(`The price of this computer is ${this.price} and the type is ${this.type}`);
     }
 
+    // getter method
     get upperType() {
-        return  this.type.toUpperCase();
+        return this.type.toUpperCase();
     }
 }
 
